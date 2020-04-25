@@ -1,0 +1,7 @@
+1
+2
+HyperPriorAll gamma 0 2 0 2
+RJHP exp 0 100
+burnin 50000
+Stones 100 10000
+Run
